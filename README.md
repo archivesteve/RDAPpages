@@ -1,2 +1,2 @@
 # Important information
-More stuff here! :octocat:
+More stuff here!
